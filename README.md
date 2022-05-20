@@ -20,3 +20,9 @@ $ npm start
 $ npm install --save react@^17.0.0 react-dom@17.0.0  
 </pre>
   
+### 2. 실행 방법
+1. npm install
+2. npm start
+3. http://localhost:3000/ 클릭
+
+
